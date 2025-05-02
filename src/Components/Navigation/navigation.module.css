@@ -1,0 +1,17 @@
+.navigation {
+	display: flex;
+	flex-direction: column;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+.navLink {
+	color:  black;
+	margin-top: 10px;
+}
+
+.navLink:hover {
+	color: red;
+	font-weight: 700;
+	transition:  0.3 ease;
+}
